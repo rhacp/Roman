@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Second {
+public class Final {
 
     static int romanToInt(String s) {
         int nowVal = 0;
